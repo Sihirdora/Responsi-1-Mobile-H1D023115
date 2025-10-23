@@ -1,4 +1,4 @@
-# Responsi-1-Mobile-H1D023115
+# Responsi-1-Mobile
 # Feidinata Artandi - H1D023115 - D - B
 
 https://github.com/user-attachments/assets/647c9d8e-10c3-4274-abda-d3107b43317c
