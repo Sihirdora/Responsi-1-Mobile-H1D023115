@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leicester City FC</string>
+    <string name="club_name_title">Leicester City FC</string>
+    <string name="history_title">Sejarah Klub</string>
+    <string name="coach_title">Pelatih Kepala</string>
+    <string name="squad_title">Skuad Tim</string>
+
+    <string name="label_history">Club History</string>
+    <string name="label_coach">Head Coach</string>
+    <string name="label_squad">Team Squad</string>
+
+    <string name="club_profile_summary">
+        Leicester City F.C. adalah klub sepak bola profesional Inggris yang didirikan pada tahun 1884 sebagai Leicester Fosse FC dan saat ini bermain di EFL Championship. Dijuluki \"The Foxes\", klub ini berbasis di Leicester dan memainkan pertandingan kandangnya di King Power Stadium. Pencapaian terbesar klub ini adalah memenangkan Liga Primer Inggris secara mengejutkan pada musim 2015-2016.
+    </string>
+
+    <string name="leicester_history_content">
+       Leicester City FC didirikan pada tahun 1884 sebagai Leicester Fosse, berganti nama menjadi Leicester City FC pada tahun 1919, dan meraih kejayaan besar dengan memenangkan Liga Primer Inggris pada musim 2015-2016. Julukan klub, "The Foxes," berasal dari penggunaan lambang kepala rubah pada logo mereka sejak 1948, karena Leicestershire terkenal dengan perburuan rubah.
+Pendirian dan Nama Awal: Klub ini didirikan pada tahun 1884 dengan nama Leicester Fosse FC, dinamai berdasarkan Fosse Road, jalan di dekat stadion pertama mereka.
+Perubahan Nama: Setelah bangkit kembali dari kebangkrutan, klub resmi mengubah namanya menjadi Leicester City FC pada tahun 1919, seiring dengan status Leicester yang resmi menjadi kota.
+Logo dan Julukan: Logo klub pertama kali menampilkan kepala rubah pada tahun 1948. Rubah dipilih karena wilayah Leicestershire terkenal dengan perburuan rubah, yang kemudian menjadi asal mula julukan "The Foxes".
+Kejayaan Besar: Puncak kesuksesan klub adalah ketika mereka menjuarai Liga Primer Inggris pada musim 2015-2016, sebuah pencapaian yang luar biasa karena mereka baru saja promosi dari Championship.
+Stadion: Klub ini bermain di Filbert Street selama 111 tahun sebelum pindah ke Stadion King Power (sebelumnya Stadion Walkers) pada tahun 2002.
+    </string>
+
+</resources>
